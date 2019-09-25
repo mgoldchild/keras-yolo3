@@ -1,5 +1,12 @@
 # keras-yolo3
 
+## MEMO
+
+```
+$ pyenv install 3.5.3
+$ pipenv shell
+```
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
