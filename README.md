@@ -5,6 +5,7 @@
 ```
 $ pyenv install 3.5.3
 $ pipenv shell
+$ pipenv install
 ```
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
